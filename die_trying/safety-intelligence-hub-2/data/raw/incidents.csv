@@ -1,0 +1,109 @@
+incident_id,site_id,date,department,event_type,severity,recordable,lost_time_days,root_cause_identified
+INC-00001,S01,2025-04-15,Maintenance,Struck By Object,Lost Time,True,23,True
+INC-00002,S01,2024-03-08,Quality,Ergonomic,First Aid,False,0,True
+INC-00003,S01,2024-02-16,Production,Struck By Object,Medical Treatment,True,0,True
+INC-00004,S01,2025-10-13,R&D,Struck By Object,Lost Time,True,13,True
+INC-00005,S01,2024-12-29,Production,Electrical,Medical Treatment,True,0,True
+INC-00006,S01,2024-04-22,Maintenance,Ergonomic,Medical Treatment,True,0,True
+INC-00007,S02,2024-12-03,Production,Vehicle/Forklift,First Aid,False,0,True
+INC-00008,S02,2024-12-13,Warehouse,Chemical Exposure,Medical Treatment,True,0,True
+INC-00009,S02,2024-03-11,Logistics,Struck By Object,Medical Treatment,True,0,True
+INC-00010,S02,2025-08-30,Warehouse,Machine Contact,First Aid,False,0,True
+INC-00011,S02,2025-08-30,Logistics,Struck By Object,First Aid,False,0,True
+INC-00012,S02,2024-01-06,Maintenance,Vehicle/Forklift,Medical Treatment,True,0,True
+INC-00013,S02,2025-01-04,Quality,Slip/Fall,Medical Treatment,True,0,False
+INC-00014,S02,2024-04-12,Quality,Chemical Exposure,Medical Treatment,True,0,True
+INC-00015,S02,2025-02-23,Quality,Electrical,Medical Treatment,True,0,True
+INC-00016,S02,2025-02-08,Quality,Slip/Fall,First Aid,False,0,True
+INC-00017,S02,2024-07-20,Maintenance,Ergonomic,First Aid,False,0,True
+INC-00018,S02,2025-09-14,Warehouse,Machine Contact,First Aid,False,0,True
+INC-00019,S02,2024-04-02,Quality,Electrical,Medical Treatment,True,0,True
+INC-00020,S02,2025-07-26,Maintenance,Struck By Object,First Aid,False,0,True
+INC-00021,S02,2024-03-18,Production,Struck By Object,First Aid,False,0,True
+INC-00022,S02,2025-06-11,Warehouse,Electrical,First Aid,False,0,True
+INC-00023,S02,2024-12-27,Maintenance,Manual Handling,Medical Treatment,True,0,True
+INC-00024,S02,2024-10-05,Quality,Machine Contact,Medical Treatment,True,0,False
+INC-00025,S02,2024-09-04,Warehouse,Machine Contact,First Aid,False,0,True
+INC-00026,S02,2025-10-25,R&D,Ergonomic,First Aid,False,0,True
+INC-00027,S02,2025-07-29,Maintenance,Vehicle/Forklift,Medical Treatment,True,0,False
+INC-00028,S02,2024-04-03,Maintenance,Vehicle/Forklift,Lost Time,True,8,True
+INC-00029,S02,2024-05-27,Quality,Manual Handling,Medical Treatment,True,0,True
+INC-00030,S03,2024-08-13,Quality,Manual Handling,First Aid,False,0,True
+INC-00031,S03,2025-03-02,R&D,Chemical Exposure,First Aid,False,0,False
+INC-00032,S03,2024-05-17,Logistics,Vehicle/Forklift,Medical Treatment,True,0,False
+INC-00033,S03,2024-04-15,R&D,Manual Handling,Medical Treatment,True,0,True
+INC-00034,S03,2024-11-22,Maintenance,Electrical,Medical Treatment,True,0,False
+INC-00035,S03,2024-11-01,Maintenance,Chemical Exposure,Lost Time,True,18,False
+INC-00036,S03,2025-07-25,R&D,Chemical Exposure,Medical Treatment,True,0,True
+INC-00037,S03,2025-01-30,Maintenance,Struck By Object,Medical Treatment,True,0,True
+INC-00038,S03,2024-07-13,Warehouse,Chemical Exposure,Medical Treatment,True,0,False
+INC-00039,S03,2025-10-16,Quality,Manual Handling,Lost Time,True,1,True
+INC-00040,S03,2025-05-01,R&D,Slip/Fall,First Aid,False,0,True
+INC-00041,S03,2024-07-24,Warehouse,Struck By Object,Medical Treatment,True,0,False
+INC-00042,S03,2024-06-17,Logistics,Slip/Fall,Lost Time,True,29,True
+INC-00043,S03,2024-08-14,R&D,Chemical Exposure,First Aid,False,0,True
+INC-00044,S03,2025-04-08,Logistics,Electrical,Lost Time,True,24,True
+INC-00045,S03,2024-05-11,Production,Electrical,Lost Time,True,15,True
+INC-00046,S03,2024-02-02,Production,Ergonomic,Fatality,True,999,True
+INC-00047,S04,2024-10-04,Logistics,Slip/Fall,Medical Treatment,True,0,True
+INC-00048,S04,2025-11-14,Production,Struck By Object,First Aid,False,0,True
+INC-00049,S04,2024-09-25,Quality,Vehicle/Forklift,First Aid,False,0,True
+INC-00050,S04,2025-09-30,Warehouse,Struck By Object,First Aid,False,0,True
+INC-00051,S04,2024-11-12,Production,Ergonomic,Medical Treatment,True,0,True
+INC-00052,S04,2024-01-11,Production,Vehicle/Forklift,First Aid,False,0,False
+INC-00053,S04,2025-11-08,R&D,Struck By Object,Medical Treatment,True,0,True
+INC-00054,S05,2025-02-28,R&D,Manual Handling,Medical Treatment,True,0,False
+INC-00055,S05,2024-10-17,Warehouse,Machine Contact,Lost Time,True,3,True
+INC-00056,S05,2024-08-17,Warehouse,Electrical,Medical Treatment,True,0,True
+INC-00057,S05,2024-07-28,Quality,Electrical,First Aid,False,0,True
+INC-00058,S05,2025-06-12,Production,Vehicle/Forklift,First Aid,False,0,True
+INC-00059,S05,2024-11-01,Logistics,Ergonomic,Medical Treatment,True,0,True
+INC-00060,S05,2025-04-08,R&D,Struck By Object,Medical Treatment,True,0,False
+INC-00061,S05,2024-07-01,R&D,Chemical Exposure,Lost Time,True,1,True
+INC-00062,S05,2024-06-18,Warehouse,Struck By Object,Medical Treatment,True,0,True
+INC-00063,S05,2024-03-27,Maintenance,Ergonomic,First Aid,False,0,True
+INC-00064,S05,2024-07-19,Maintenance,Electrical,Lost Time,True,13,True
+INC-00065,S05,2024-06-29,Warehouse,Struck By Object,Medical Treatment,True,0,False
+INC-00066,S05,2024-12-13,Quality,Machine Contact,First Aid,False,0,True
+INC-00067,S05,2024-04-16,Warehouse,Manual Handling,First Aid,False,0,True
+INC-00068,S06,2024-11-28,Production,Electrical,First Aid,False,0,False
+INC-00069,S06,2024-01-16,R&D,Slip/Fall,First Aid,False,0,True
+INC-00070,S06,2025-08-09,Maintenance,Struck By Object,Medical Treatment,True,0,True
+INC-00071,S06,2025-08-01,Warehouse,Electrical,Lost Time,True,10,True
+INC-00072,S06,2024-02-01,Logistics,Manual Handling,First Aid,False,0,True
+INC-00073,S06,2024-07-25,Production,Slip/Fall,First Aid,False,0,True
+INC-00074,S07,2024-09-29,R&D,Electrical,First Aid,False,0,True
+INC-00075,S07,2024-12-03,R&D,Chemical Exposure,Lost Time,True,25,True
+INC-00076,S07,2024-02-14,Production,Chemical Exposure,First Aid,False,0,True
+INC-00077,S07,2024-12-14,Maintenance,Machine Contact,First Aid,False,0,True
+INC-00078,S07,2024-11-12,Maintenance,Manual Handling,First Aid,False,0,True
+INC-00079,S07,2025-05-04,Warehouse,Struck By Object,Lost Time,True,20,True
+INC-00080,S07,2024-12-17,Warehouse,Struck By Object,Medical Treatment,True,0,True
+INC-00081,S07,2025-01-23,R&D,Vehicle/Forklift,Lost Time,True,17,True
+INC-00082,S07,2024-01-26,Logistics,Electrical,Medical Treatment,True,0,True
+INC-00083,S07,2025-05-22,Warehouse,Electrical,First Aid,False,0,False
+INC-00084,S07,2025-02-27,Production,Electrical,Medical Treatment,True,0,False
+INC-00085,S08,2025-11-14,Maintenance,Struck By Object,Medical Treatment,True,0,True
+INC-00086,S08,2024-07-03,R&D,Electrical,Lost Time,True,3,False
+INC-00087,S08,2024-05-02,Logistics,Manual Handling,Medical Treatment,True,0,True
+INC-00088,S08,2025-02-16,R&D,Electrical,Medical Treatment,True,0,True
+INC-00089,S08,2024-12-25,Logistics,Electrical,Lost Time,True,16,True
+INC-00090,S08,2025-07-27,Production,Vehicle/Forklift,First Aid,False,0,True
+INC-00091,S08,2024-03-05,Warehouse,Struck By Object,First Aid,False,0,True
+INC-00092,S08,2025-06-22,Warehouse,Struck By Object,First Aid,False,0,True
+INC-00093,S08,2025-07-10,Quality,Machine Contact,First Aid,False,0,True
+INC-00094,S08,2024-03-03,Warehouse,Electrical,First Aid,False,0,True
+INC-00095,S08,2024-11-15,Logistics,Electrical,Medical Treatment,True,0,True
+INC-00096,S08,2024-12-15,Production,Chemical Exposure,Lost Time,True,18,True
+INC-00097,S08,2025-09-09,Warehouse,Chemical Exposure,Medical Treatment,True,0,True
+INC-00098,S08,2024-03-27,Production,Slip/Fall,Medical Treatment,True,0,True
+INC-00099,S08,2025-02-01,Production,Slip/Fall,Medical Treatment,True,0,True
+INC-00100,S08,2024-11-27,Warehouse,Chemical Exposure,First Aid,False,0,True
+INC-00101,S08,2025-01-11,Warehouse,Vehicle/Forklift,First Aid,False,0,False
+INC-00102,S08,2025-07-24,Production,Ergonomic,Fatality,True,999,True
+INC-00103,S08,2024-03-18,Quality,Ergonomic,Lost Time,True,2,True
+INC-00104,S08,2025-03-31,Production,Vehicle/Forklift,Medical Treatment,True,0,False
+INC-00105,S08,2025-10-16,Maintenance,Manual Handling,First Aid,False,0,True
+INC-00106,S08,2024-01-11,Warehouse,Machine Contact,First Aid,False,0,False
+INC-00107,S08,2025-04-24,Production,Slip/Fall,First Aid,False,0,True
+INC-00108,S08,2024-06-23,Logistics,Struck By Object,Lost Time,True,28,False

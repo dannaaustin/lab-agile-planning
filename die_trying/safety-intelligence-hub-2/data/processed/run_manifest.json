@@ -1,0 +1,17 @@
+{
+  "run_started_utc": "2026-08-15T16:31:21.258636+00:00",
+  "run_finished_utc": "2026-08-15T16:31:22.410573+00:00",
+  "git_commit": "no-git-repo-detected",
+  "raw_row_counts": {
+    "audits.csv": 32,
+    "corrective_actions.csv": 220,
+    "incidents.csv": 108,
+    "near_misses.csv": 177,
+    "safety_visits.csv": 349,
+    "sites.csv": 8,
+    "training.csv": 8
+  },
+  "processed_row_counts": {
+    "kpi_summary.csv": 8
+  }
+}

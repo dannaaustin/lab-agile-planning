@@ -1,0 +1,9 @@
+site_id,site_name,country,headcount,risk_profile,recordable_incidents,lost_time_incidents,total_hours_2y,TRIR,LTIFR,near_miss_count,near_miss_rate_per_100emp,safety_visits_count,training_completion_rate,audit_findings_total,audit_major_findings,pct_actions_overdue,risk_score,priority
+S05,Porto Plant,PT,189,medium,9,3,756000,2.38,3.97,25,13.2,45,0.696,36,10,37.1,81.8,Critical
+S07,Warsaw Plant,PL,109,high,6,3,436000,2.75,6.88,7,6.4,53,0.76,21,3,25.0,60.6,High
+S02,Toulouse Plant,FR,268,high,12,1,1072000,2.24,0.93,13,4.9,32,0.69,21,3,21.4,55.6,High
+S08,Munich Assembly,DE,250,medium,14,5,1000000,2.8,5.0,39,15.6,47,0.949,17,4,33.3,53.6,High
+S03,Milan Plant,IT,240,medium,13,5,960000,2.71,5.21,29,12.1,44,0.803,9,3,25.7,53.1,High
+S01,Barcelona Plant,ES,110,medium,5,2,440000,2.27,4.55,22,20.0,52,0.948,36,12,19.0,44.8,Medium
+S06,Rotterdam DC,NL,287,low,2,1,1148000,0.35,0.87,33,11.5,38,0.912,32,8,34.6,39.9,Medium
+S04,Lyon Warehouse,FR,190,low,3,0,760000,0.79,0.0,9,4.7,38,0.973,17,4,28.6,33.2,Medium

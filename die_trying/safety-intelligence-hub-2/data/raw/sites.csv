@@ -1,0 +1,9 @@
+site_id,site_name,country,headcount,risk_profile
+S01,Barcelona Plant,ES,110,medium
+S02,Toulouse Plant,FR,268,high
+S03,Milan Plant,IT,240,medium
+S04,Lyon Warehouse,FR,190,low
+S05,Porto Plant,PT,189,medium
+S06,Rotterdam DC,NL,287,low
+S07,Warsaw Plant,PL,109,high
+S08,Munich Assembly,DE,250,medium

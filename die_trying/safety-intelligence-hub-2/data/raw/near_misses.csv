@@ -1,0 +1,178 @@
+near_miss_id,site_id,date,category,severity_potential,days_to_close,closed
+NM-00001,S01,2025-09-09,Housekeeping,Low,17,True
+NM-00002,S01,2025-09-03,Unsafe Act,Medium,2,True
+NM-00003,S01,2025-02-04,Unsafe Act,Low,15,True
+NM-00004,S01,2025-09-13,Unsafe Condition,Low,1,True
+NM-00005,S01,2025-01-16,Housekeeping,Low,24,True
+NM-00006,S01,2025-03-22,Unsafe Act,High,0,True
+NM-00007,S01,2024-10-27,PPE Non-Compliance,Low,4,True
+NM-00008,S01,2024-03-07,PPE Non-Compliance,Medium,14,True
+NM-00009,S01,2025-09-29,PPE Non-Compliance,High,14,True
+NM-00010,S01,2024-04-15,Near-Collision,Medium,10,True
+NM-00011,S01,2024-11-19,Unsafe Act,Medium,23,True
+NM-00012,S01,2024-04-18,PPE Non-Compliance,Low,22,True
+NM-00013,S01,2025-11-22,Unsafe Act,Low,6,True
+NM-00014,S01,2024-08-10,Near-Collision,Low,10,True
+NM-00015,S01,2025-09-05,Equipment Malfunction,Low,5,False
+NM-00016,S01,2025-03-05,PPE Non-Compliance,Low,7,True
+NM-00017,S01,2024-03-10,PPE Non-Compliance,Medium,14,True
+NM-00018,S01,2025-02-17,Near-Collision,Low,14,True
+NM-00019,S01,2024-09-07,Unsafe Condition,Medium,13,True
+NM-00020,S01,2024-11-10,Near-Collision,Medium,24,True
+NM-00021,S01,2024-04-03,Equipment Malfunction,Medium,23,True
+NM-00022,S01,2025-01-02,Unsafe Condition,Medium,6,True
+NM-00023,S02,2025-08-22,Unsafe Act,Low,1,True
+NM-00024,S02,2024-07-23,Unsafe Condition,Medium,18,False
+NM-00025,S02,2024-11-14,Housekeeping,Low,20,True
+NM-00026,S02,2025-09-17,Near-Collision,Low,5,True
+NM-00027,S02,2025-01-01,Unsafe Act,Medium,23,True
+NM-00028,S02,2025-12-27,Housekeeping,Medium,19,True
+NM-00029,S02,2025-11-06,PPE Non-Compliance,Low,16,True
+NM-00030,S02,2024-01-08,Unsafe Act,Low,11,True
+NM-00031,S02,2025-11-02,Equipment Malfunction,Medium,24,True
+NM-00032,S02,2025-02-09,Unsafe Act,Low,16,True
+NM-00033,S02,2024-08-27,Equipment Malfunction,Low,2,True
+NM-00034,S02,2025-07-05,Unsafe Act,Low,22,True
+NM-00035,S02,2025-11-17,Near-Collision,Low,1,True
+NM-00036,S03,2024-06-18,Unsafe Condition,Medium,6,True
+NM-00037,S03,2025-02-10,PPE Non-Compliance,Medium,16,False
+NM-00038,S03,2025-05-04,PPE Non-Compliance,Medium,18,True
+NM-00039,S03,2025-11-10,Unsafe Condition,Medium,21,True
+NM-00040,S03,2024-12-18,Near-Collision,High,9,True
+NM-00041,S03,2024-03-28,PPE Non-Compliance,Low,21,True
+NM-00042,S03,2024-09-05,Unsafe Act,Low,12,True
+NM-00043,S03,2025-04-04,PPE Non-Compliance,Low,15,True
+NM-00044,S03,2024-05-09,Unsafe Act,High,6,True
+NM-00045,S03,2024-11-02,Unsafe Act,Low,7,True
+NM-00046,S03,2025-03-12,Housekeeping,Medium,4,True
+NM-00047,S03,2025-08-09,Equipment Malfunction,Medium,15,True
+NM-00048,S03,2024-12-14,Housekeeping,High,12,True
+NM-00049,S03,2024-12-02,Unsafe Act,Medium,21,True
+NM-00050,S03,2024-03-24,Near-Collision,Medium,16,True
+NM-00051,S03,2024-03-19,Unsafe Act,Medium,24,True
+NM-00052,S03,2024-07-29,PPE Non-Compliance,Low,15,False
+NM-00053,S03,2025-01-05,Equipment Malfunction,High,19,True
+NM-00054,S03,2024-12-23,Equipment Malfunction,Low,8,True
+NM-00055,S03,2025-04-19,Unsafe Condition,Medium,2,True
+NM-00056,S03,2025-02-09,Housekeeping,Low,11,True
+NM-00057,S03,2025-11-26,PPE Non-Compliance,Medium,1,True
+NM-00058,S03,2024-03-20,Housekeeping,High,16,True
+NM-00059,S03,2024-10-14,PPE Non-Compliance,Low,20,True
+NM-00060,S03,2024-02-05,Equipment Malfunction,Low,5,True
+NM-00061,S03,2024-07-10,Near-Collision,Low,16,True
+NM-00062,S03,2024-01-22,Housekeeping,Low,15,True
+NM-00063,S03,2025-01-17,Housekeeping,Low,8,True
+NM-00064,S03,2025-09-14,PPE Non-Compliance,Low,11,True
+NM-00065,S04,2024-11-24,PPE Non-Compliance,High,17,True
+NM-00066,S04,2025-08-12,PPE Non-Compliance,Low,19,True
+NM-00067,S04,2024-05-16,Equipment Malfunction,Medium,24,True
+NM-00068,S04,2025-05-26,Equipment Malfunction,Low,12,True
+NM-00069,S04,2024-03-16,Unsafe Act,Low,9,False
+NM-00070,S04,2024-02-19,PPE Non-Compliance,Medium,7,True
+NM-00071,S04,2024-11-24,Equipment Malfunction,Medium,10,True
+NM-00072,S04,2025-12-01,Unsafe Condition,High,24,True
+NM-00073,S04,2025-02-13,Equipment Malfunction,Medium,8,True
+NM-00074,S05,2025-10-25,Unsafe Condition,Low,21,True
+NM-00075,S05,2024-09-10,Unsafe Act,Medium,21,True
+NM-00076,S05,2024-07-25,Housekeeping,Low,14,True
+NM-00077,S05,2025-11-24,Near-Collision,Medium,24,True
+NM-00078,S05,2025-05-07,Housekeeping,Low,6,True
+NM-00079,S05,2024-08-21,PPE Non-Compliance,High,2,True
+NM-00080,S05,2025-04-21,PPE Non-Compliance,Low,23,True
+NM-00081,S05,2025-06-23,Unsafe Condition,Low,2,False
+NM-00082,S05,2024-01-30,PPE Non-Compliance,Medium,24,True
+NM-00083,S05,2024-02-04,Equipment Malfunction,Low,1,False
+NM-00084,S05,2024-03-22,Housekeeping,Low,22,True
+NM-00085,S05,2024-12-24,Unsafe Condition,Low,9,True
+NM-00086,S05,2024-10-31,Equipment Malfunction,Low,10,True
+NM-00087,S05,2024-07-19,Unsafe Act,Low,12,True
+NM-00088,S05,2024-08-31,Equipment Malfunction,Low,11,True
+NM-00089,S05,2025-03-12,Equipment Malfunction,Medium,6,True
+NM-00090,S05,2024-12-16,Unsafe Condition,High,18,False
+NM-00091,S05,2024-12-27,Equipment Malfunction,Low,11,False
+NM-00092,S05,2025-06-03,Unsafe Act,High,7,False
+NM-00093,S05,2025-11-12,Housekeeping,Low,4,True
+NM-00094,S05,2024-01-23,Unsafe Condition,Medium,11,True
+NM-00095,S05,2025-05-16,PPE Non-Compliance,High,21,True
+NM-00096,S05,2024-01-04,Unsafe Act,Medium,11,True
+NM-00097,S05,2024-07-31,Unsafe Condition,Low,6,True
+NM-00098,S05,2025-11-01,Equipment Malfunction,Low,22,True
+NM-00099,S06,2024-08-04,Near-Collision,Low,5,False
+NM-00100,S06,2024-10-29,Unsafe Act,Low,21,False
+NM-00101,S06,2025-05-27,Near-Collision,Medium,4,True
+NM-00102,S06,2025-06-13,Unsafe Condition,High,20,True
+NM-00103,S06,2024-06-21,Housekeeping,Medium,3,True
+NM-00104,S06,2024-04-14,Near-Collision,High,19,False
+NM-00105,S06,2025-11-05,Near-Collision,Medium,0,True
+NM-00106,S06,2025-12-25,Equipment Malfunction,High,14,True
+NM-00107,S06,2024-04-30,Unsafe Condition,Low,15,True
+NM-00108,S06,2024-07-18,Unsafe Condition,Medium,3,True
+NM-00109,S06,2024-05-18,Unsafe Act,Low,0,True
+NM-00110,S06,2025-03-10,Unsafe Condition,Medium,20,True
+NM-00111,S06,2025-01-18,Housekeeping,Medium,9,True
+NM-00112,S06,2025-05-09,Housekeeping,High,6,True
+NM-00113,S06,2025-11-05,Equipment Malfunction,Medium,12,True
+NM-00114,S06,2024-01-10,PPE Non-Compliance,Low,10,True
+NM-00115,S06,2025-04-24,Unsafe Act,Low,9,True
+NM-00116,S06,2025-05-13,Unsafe Condition,Low,6,True
+NM-00117,S06,2025-12-18,Unsafe Condition,Low,22,True
+NM-00118,S06,2024-06-03,Equipment Malfunction,Low,16,True
+NM-00119,S06,2024-03-05,Near-Collision,Medium,18,True
+NM-00120,S06,2025-06-17,Unsafe Act,High,11,True
+NM-00121,S06,2025-09-20,Near-Collision,Low,19,True
+NM-00122,S06,2024-03-13,Unsafe Act,High,11,True
+NM-00123,S06,2025-08-10,Equipment Malfunction,Low,17,True
+NM-00124,S06,2025-10-09,Near-Collision,Medium,8,True
+NM-00125,S06,2024-01-08,Near-Collision,Low,15,True
+NM-00126,S06,2025-11-13,PPE Non-Compliance,Low,8,True
+NM-00127,S06,2024-08-30,Unsafe Condition,Low,4,True
+NM-00128,S06,2025-05-14,Unsafe Condition,Low,18,True
+NM-00129,S06,2025-03-02,PPE Non-Compliance,Low,22,True
+NM-00130,S06,2024-07-22,Near-Collision,Low,11,True
+NM-00131,S06,2024-04-03,Unsafe Act,High,1,True
+NM-00132,S07,2024-12-17,Unsafe Condition,Medium,3,True
+NM-00133,S07,2025-07-18,Unsafe Act,High,22,True
+NM-00134,S07,2025-12-19,Unsafe Act,Low,14,True
+NM-00135,S07,2024-06-11,PPE Non-Compliance,Medium,13,True
+NM-00136,S07,2024-03-11,Near-Collision,Low,10,True
+NM-00137,S07,2024-11-27,Unsafe Act,Medium,4,True
+NM-00138,S07,2025-09-13,Unsafe Condition,Low,18,True
+NM-00139,S08,2025-03-16,PPE Non-Compliance,High,23,True
+NM-00140,S08,2024-03-29,Unsafe Condition,Medium,9,True
+NM-00141,S08,2025-04-20,Unsafe Act,Low,10,True
+NM-00142,S08,2024-11-24,Equipment Malfunction,High,3,True
+NM-00143,S08,2025-01-25,Housekeeping,Low,13,True
+NM-00144,S08,2024-06-30,Equipment Malfunction,High,0,True
+NM-00145,S08,2024-08-27,Unsafe Condition,Medium,12,True
+NM-00146,S08,2024-12-24,PPE Non-Compliance,Low,20,True
+NM-00147,S08,2024-05-13,Unsafe Act,High,23,True
+NM-00148,S08,2024-12-17,Near-Collision,Low,9,True
+NM-00149,S08,2025-09-30,PPE Non-Compliance,High,0,True
+NM-00150,S08,2024-03-27,Near-Collision,Low,22,True
+NM-00151,S08,2025-01-20,Near-Collision,High,13,True
+NM-00152,S08,2024-05-16,Housekeeping,Low,20,True
+NM-00153,S08,2025-08-27,Housekeeping,Low,23,True
+NM-00154,S08,2024-09-06,Housekeeping,Medium,1,True
+NM-00155,S08,2025-04-10,Housekeeping,High,19,True
+NM-00156,S08,2024-06-03,Near-Collision,Low,7,True
+NM-00157,S08,2024-07-23,Equipment Malfunction,Low,7,True
+NM-00158,S08,2024-02-15,Unsafe Act,Medium,10,True
+NM-00159,S08,2024-04-21,Near-Collision,Medium,23,True
+NM-00160,S08,2024-08-20,Near-Collision,Medium,7,True
+NM-00161,S08,2025-03-24,Near-Collision,Low,23,True
+NM-00162,S08,2024-09-07,Equipment Malfunction,Low,24,True
+NM-00163,S08,2024-07-30,Housekeeping,High,22,True
+NM-00164,S08,2025-07-01,Near-Collision,Low,18,True
+NM-00165,S08,2025-06-05,Housekeeping,Low,9,True
+NM-00166,S08,2025-06-23,Housekeeping,Medium,3,True
+NM-00167,S08,2024-08-29,Unsafe Condition,Low,10,True
+NM-00168,S08,2025-04-17,PPE Non-Compliance,Low,11,False
+NM-00169,S08,2024-08-25,Unsafe Act,Medium,16,False
+NM-00170,S08,2025-04-23,Unsafe Condition,Low,22,True
+NM-00171,S08,2025-11-17,Housekeeping,Medium,21,True
+NM-00172,S08,2024-06-29,Unsafe Condition,Low,21,True
+NM-00173,S08,2024-07-24,Equipment Malfunction,Low,16,True
+NM-00174,S08,2025-10-26,Housekeeping,High,13,True
+NM-00175,S08,2025-06-28,Unsafe Condition,Low,6,True
+NM-00176,S08,2025-04-01,PPE Non-Compliance,Medium,12,False
+NM-00177,S08,2025-01-28,Housekeeping,Medium,10,True
